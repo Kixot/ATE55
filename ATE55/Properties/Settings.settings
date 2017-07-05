@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ATE55.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServeurSMTP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">srvexch.cg55.intra</Value>
+    </Setting>
+    <Setting Name="EmailConvention" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sebastien.dupuis@meuse.fr</Value>
+    </Setting>
+    <Setting Name="EligibiliteMaxPotentielFinancier" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;2016-993&lt;/string&gt;
+  &lt;string&gt;2017-1005&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="EligibiliteMaxPopulation" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="EligibiliteMax2Population" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="EmailSubvention" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sebastien.dupuis@meuse.fr</Value>
+    </Setting>
+    <Setting Name="DepollutionDBO5" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="DepollutionDCO" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="DepollutionAzote" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

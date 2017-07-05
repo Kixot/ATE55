@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A0CFBAF0-AA63-4B99-AEAA-95BF77FA8FF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ATE55</RootNamespace>
+    <AssemblyName>ATE55</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Outlook, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UserAD">
+      <HintPath>.\UserAD.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ATE55.cs" />
+    <Compile Include="CustomComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomComboBox.designer.cs">
+      <DependentUpon>CustomComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dlgAuthentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dlgAuthentification.designer.cs">
+      <DependentUpon>dlgAuthentification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssainissement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssainissement.Designer.cs">
+      <DependentUpon>frmAssainissement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBilan.Designer.cs">
+      <DependentUpon>frmBilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConventions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConventions.Designer.cs">
+      <DependentUpon>frmConventions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEauPotable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEauPotable.Designer.cs">
+      <DependentUpon>frmEauPotable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListe.Designer.cs">
+      <DependentUpon>frmListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjets.Designer.cs">
+      <DependentUpon>frmProjets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubventions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubventions.Designer.cs">
+      <DependentUpon>frmSubventions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmATE55.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmATE55.designer.cs">
+      <DependentUpon>frmATE55.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttente.Designer.cs">
+      <DependentUpon>frmAttente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserAD.Designer.cs">
+      <DependentUpon>frmUserAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUtilisateur.designer.cs">
+      <DependentUpon>frmUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomComboBox.resx">
+      <DependentUpon>CustomComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dlgAuthentification.resx">
+      <DependentUpon>dlgAuthentification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssainissement.resx">
+      <DependentUpon>frmAssainissement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBilan.resx">
+      <DependentUpon>frmBilan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConventions.resx">
+      <DependentUpon>frmConventions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEauPotable.resx">
+      <DependentUpon>frmEauPotable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListe.resx">
+      <DependentUpon>frmListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProjets.resx">
+      <DependentUpon>frmProjets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubventions.resx">
+      <DependentUpon>frmSubventions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmATE55.resx">
+      <DependentUpon>frmATE55.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttente.resx">
+      <DependentUpon>frmAttente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserAD.resx">
+      <DependentUpon>frmUserAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUtilisateur.resx">
+      <DependentUpon>frmUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="images\entreprise-16.png" />
+    <Content Include="Imports\Eligibilite2016.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Eligibilite2017.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Subventions_aProgrammer.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Subventions_Programmees.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Conventions.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Stations.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Reseaux.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Mesures.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Ressources.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Procedures.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Normes.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\Suivis.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\PopulationCaptage.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imports\VenteEau.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Content Include="TemplatesWord\Convention_Assainissement.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_Audit.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_Diagnostic.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_DUP.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_RealisationDUP.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_Rivieres.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_SPAC_A.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_SPAC_R.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_SPANC.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Convention_SuiviDUP.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\Annexe2.dotx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TemplatesWord\ModèleEAA.xltx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Plus.gif" />
+    <Content Include="logo.ico" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\Valeur_Modif.png" />
+    <None Include="Resources\subventions.png" />
+    <None Include="Resources\projets.png" />
+    <None Include="Resources\conventions.png" />
+    <None Include="Resources\assainissement.png" />
+    <None Include="Resources\eaupotable.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

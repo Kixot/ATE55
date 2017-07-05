@@ -1,0 +1,502 @@
+Code INSEE;Population DGF 2014;Population DGF 2015;Inéligibilité 2016;Population DGF 2016;Communes Urbaines;PF 2015;PF 2016;Eligibilité (PF<1005?);Inéligibilité 2017;EPCI-FP;Eau Potable;AssainissementCollectif;AssainissementNon Collectif;Milieux Aquatiques;S(km2);ZoneRouge;Décompte
+55001;316;317;;319;;594;616;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Haut-Ornain;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;13.7;;1
+55002;110;115;;120;;585;573;VRAI;;CC Pays d''Etain;;;CC Pays d''Etain;CC Pays d''Etain;9.7;;1
+55004;98;98;;93;;627;661;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;9.1;;1
+55005;48;48;x;47;;2 835;2832;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;11.2;;1
+55007;252;252;;256;;496;501;VRAI;;Val de Meuse Voie Sacrée;;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;6.3;;1
+55008;193;194;;191;;489;540;VRAI;;Damvillers-Spincourt;SIE PIENNES (54);;SIE PIENNES (54);CC Damvillers-Spincourt;14.7;;1
+55009;626;621;;616;;404;406;VRAI;;Val de Meuse Voie Sacrée;;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;13.3;;1
+55010;2 843;2 819;x;2812;OUI;787;793;VRAI;x;CC Val d''Ornois Haute Saulx et Perthois;;;;CC Val d''Ornois Haute Saulx et Perthois;21.6;;1
+55011;251;252;;253;;526;548;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;4.3;;1
+55012;451;446;;439;;453;457;VRAI;;Côtes de Meuse Woëvre;;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;32.9;;1
+55013;498;493;;500;;443;439;VRAI;;Damvillers-Spincourt;SIE PIERREPONT;;SM Mangiennes;CC Damvillers-Spincourt;20.2;;1
+55014;436;426;;420;;547;559;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;29;;1
+55015;526;533;;545;;419;418;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;10.8;;1
+55017;134;127;;123;;534;552;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;10.9;;1
+55018;55;52;;52;;562;579;VRAI;;CC Stenay - Val Dunois;SIE Moulins-Autreville;;CC Pays de Stenay;CC Stenay - Val Dunois;4;;1
+55021;73;73;;75;;452;448;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.5;;1
+55022;153;153;;153;;422;425;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;6.5;;1
+55023;137;137;;134;;419;452;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;14.7;;1
+55024;165;169;;171;;554;560;VRAI;;Damvillers-Spincourt;;;SM Mangiennes;CC Damvillers-Spincourt;18.1;;1
+55025;285;299;;311;;422;415;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;14.8;;1
+55026;158;156;;154;;376;393;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;21;;1
+55027;357;174;;173;;356;356;VRAI;;CC Sammiellois;SIE Maizey;;CC Sammiellois;CC Sammiellois;8.7;;1
+55028;139;141;;143;;572;592;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;14.3;;1
+55029;16 955;16 769;x;16925;OUI;816;766;VRAI;x;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;23.6;;1
+55030;81;79;x;74;;2 273;2199;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SM Baudignecourt-Demange;SM Baudignecourt-Demange;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;6.3;;1
+55031;430;422;;412;;514;526;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;3.1;;1
+55032;63;57;;56;;450;441;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;SM3A;6.8;;1
+55033;16;16;;15;;875;1019;FAUX;T;Argonne Meuse;SIE Côte Badard;;CC Argonne Meuse;SM3A;3.9;;1
+55034;127;133;;135;;366;369;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;7.7;;1
+55035;171;166;;161;;504;546;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;10.3;;1
+55036;91;93;;96;;716;736;VRAI;;CC Stenay - Val Dunois;SIE Beauclair;;CC Pays de Stenay;CC Stenay - Val Dunois;4.8;;1
+55037;163;163;;164;;609;600;VRAI;;CC Stenay - Val Dunois;SIE Beauclair;;CC Pays de Stenay;CC Stenay - Val Dunois;11.1;;1
+55038;67;67;x;65;;1 040;1115;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;29.6;;1
+55039;0;0;;0;;0;0;VRAI;;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;7.9;ZR;1
+55040;302;290;;284;;956;974;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;25.4;;1
+55041;698;685;;680;;659;694;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;9.2;;1
+55042;453;468;;473;;518;771;VRAI;;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;5.1;;1
+55043;3 301;3 288;x;3263;OUI;650;1011;FAUX;x;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;10.2;;1
+55044;51;49;;50;;561;529;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;CC Aire et Meuse;CC Aire et Meuse;SM3A;8.3;;1
+55045;519;549;;558;;519;538;VRAI;;Val de Meuse Voie Sacrée;;CA Verdun;CA Verdun;Val de Meuse Voie Sacrée;9.4;;1
+55046;158;158;;157;;436;451;VRAI;;Côtes de Meuse Woëvre;SIE Trey-Saint-Jean (54);;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;17.2;;1
+55047;203;195;;190;;429;656;VRAI;;CA Verdun;SIE Sivry-la-Perche;CA Verdun;CA Verdun;CA Verdun;11.9;;1
+55048;35;36;;36;;822;1204;FAUX;T;CA Verdun;SIE VAL DUNOIS;CA Verdun;CA Verdun;CA Verdun;13.3;;1
+55049;448;447;;443;;656;682;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;11.6;;1
+55050;0;0;;0;;0;0;VRAI;;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;9.2;ZR;1
+55051;128;122;x;118;;1 506;1494;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SIE Vallée de l''Orge;SIE Vallée de l''Orge;SIE Vallée de l''Orge;CC Val d''Ornois Haute Saulx et Perthois;12.4;;1
+55053;408;403;;399;;406;429;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;24.7;;1
+55054;69;70;;70;;541;600;VRAI;;CC Sammiellois;SIE Han/Brasseitte;;CC Sammiellois;CC Sammiellois;5;;1
+55055;21;20;;20;;935;931;VRAI;;CC Pays d''Etain;SIE Chatillon-Blanzée;;CC Pays d''Etain;CC Pays d''Etain;3.4;;1
+55057;77;78;;77;;519;544;VRAI;;CC Pays d''Etain;SIE LAFFON DE LADEBAT;;CC Pays d''Etain;CC Pays d''Etain;5.7;;1
+55058;319;328;;338;;429;454;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;10.8;;1
+55059;229;221;x;219;;1 884;1908;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;29.1;;1
+55060;396;393;;387;;400;425;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;21.1;;1
+55061;257;260;;263;;95;86;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;5.4;;1
+55062;111;115;;113;;461;465;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;7;;1
+55063;2 792;2 759;;2711;;610;625;VRAI;;Landres;SIE PIENNES (54);SIE PIENNES (54);SIE PIENNES (54);SIE Piennes;11;;1
+55064;133;138;;142;;429;424;VRAI;;CC Triaucourt - Aire et Meuse;SIE LAFFON DE LADEBAT;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;7.5;;1
+55065;142;138;;136;;641;666;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;21.3;;1
+55066;149;154;;162;;779;742;VRAI;;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;13.4;;1
+55067;119;113;;108;;393;403;VRAI;;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;8.1;;1
+55068;109;110;;113;;468;458;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;11.5;;1
+55069;243;237;;235;;601;625;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;11.1;;1
+55070;138;135;;131;;354;357;VRAI;;Argonne Meuse;SIE VAL DUNOIS;;CC Argonne Meuse;CC Argonne Meuse;6.9;;1
+55071;218;211;;216;;395;384;VRAI;;Damvillers-Spincourt;;;SM Mangiennes;CC Damvillers-Spincourt;12.1;;1
+55072;98;107;;113;;646;615;VRAI;;CC Pays d''Etain;SIE LAFFON DE LADEBAT;;CC Pays d''Etain;CC Pays d''Etain;5;;1
+55073;744;767;;772;;682;975;VRAI;;CA Verdun;SIE La Forestière;CA Verdun;CA Verdun;CA Verdun;13.7;;1
+55075;178;172;;172;;163;143;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;;CC Val d''Ornois Haute Saulx et Perthois;9.3;;1
+55076;202;203;;205;;492;479;VRAI;;Damvillers-Spincourt;;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;18.3;;1
+55077;286;278;;273;;362;359;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;13;;1
+55078;359;362;;367;;592;596;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;24.1;;1
+55079;619;629;;646;;467;467;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Brillon-Haironville-Saudrupt;;;CC Val d''Ornois Haute Saulx et Perthois;11.4;;1
+55080;108;110;;107;;502;521;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;7.6;;1
+55081;64;64;;65;;649;646;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;8.3;;1
+55082;54;53;;52;;573;612;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;10;;1
+55083;175;175;;171;;506;528;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;12.2;;1
+55084;63;60;x;61;;1 348;1365;FAUX;x;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;11;;1
+55085;277;277;;281;;408;413;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;21;;1
+55087;94;92;x;88;;62 779;74913;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SIE d''Echenay (52);;;CC Val d''Ornois Haute Saulx et Perthois;18.4;;1
+55088;155;157;;153;;447;499;VRAI;;Commercy - Void - Vaucouleurs;SIE Sainte-Libaire;;;Commercy - Void - Vaucouleurs;6.5;;1
+55089;103;104;;105;;403;405;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;4.3;;1
+55093;330;330;;328;;551;555;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;26.7;;1
+55094;581;582;;581;;553;562;VRAI;;CC Pays d''Etain;SIE LAFFON DE LADEBAT;SIA de l''Orne;CC Pays d''Etain;CC Pays d''Etain;12.4;;1
+55095;137;135;;138;;485;474;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;5.3;;1
+55096;116;115;;119;;601;577;VRAI;;Côtes de Meuse Woëvre;;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;11.5;;1
+55097;344;340;;340;;454;429;VRAI;;Commercy - Void - Vaucouleurs;;SIVU des 7 Ponts;;Commercy - Void - Vaucouleurs;8.1;;1
+55099;129;133;;137;;572;877;VRAI;;CA Verdun;SIE du BREUIL;CA Verdun;CA Verdun;CA Verdun;12;;1
+55100;116;118;;120;;437;444;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;5.9;;1
+55358;222;211;;208;;609;726;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;22.4;;1
+55101;312;318;;327;;680;710;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;12.8;;1
+55102;582;586;;581;;734;1068;FAUX;T;CA Verdun;SIE La Forestière;CA Verdun;CA Verdun;CA Verdun;12.6;;1
+55103;29;26;;25;;844;865;VRAI;;Argonne Meuse;SIE Côte Badard;;CC Argonne Meuse;SM3A;4.4;;1
+55104;119;117;;111;;555;565;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Haut-Ornain;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;14.1;;1
+55105;186;190;;192;;457;463;VRAI;;CC Pays d''Etain;SIE Chatillon-Blanzée;;CC Pays d''Etain;CC Pays d''Etain;10.7;;1
+55106;176;178;;179;;511;809;VRAI;;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;10.4;;1
+55107;56;58;;57;;468;487;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;5.4;;1
+55108;170;164;;161;;487;485;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;9.9;;1
+55109;287;285;;279;;373;377;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;8.8;;1
+55110;271;266;;265;;573;573;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;10.8;;1
+55111;500;490;;485;;958;998;VRAI;;CC Sammiellois;SIE Chauvoncourt - Les Paroches;;CC Sammiellois;CC Sammiellois;10;;1
+55113;140;139;;133;;518;548;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;14.8;;1
+55114;191;199;;214;;429;448;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;18.8;;1
+55115;67;65;;60;;525;583;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;CC Argonne Meuse;9.2;;1
+55116;64;65;;66;;502;518;VRAI;;Argonne Meuse;;;SM Germain Guérard;CC Argonne Meuse;7.3;;1
+55117;1 626;1 609;;1581;;755;771;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;66.9;;1
+55118;90;94;;96;;598;607;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;7.2;;1
+55119;210;212;x;200;;1 104;1186;FAUX;x;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;4.6;;1
+55120;895;891;;883;;601;628;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;10.3;;1
+55121;125;125;;125;;370;347;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.1;;1
+55122;6 616;6 554;x;6504;OUI;713;803;VRAI;x;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;35.4;;1
+55124;330;334;;335;;443;454;VRAI;;Argonne Meuse;;;CC Argonne Meuse;CC Argonne Meuse;15.9;;1
+55125;776;775;x;799;;1 016;1016;FAUX;x;COPARY;COPARY;COPARY;COPARY;COPARY;11.8;;1
+55127;34;37;;37;;549;558;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;7.3;;1
+55128;46;44;x;41;;5 205;5549;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;11.9;;1
+55129;37;36;;35;;654;704;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;8.7;;1
+55132;1 765;1 755;;1759;;474;476;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;18.1;;1
+55518;152;151;;150;;726;742;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;18.3;;1
+55133;94;94;;93;;177;158;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Hévilliers;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;8.9;;1
+55134;161;164;;166;;536;562;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;4.6;;1
+55137;52;54;;55;;550;559;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;CC Argonne Meuse;5.6;;1
+55138;161;164;;167;;590;581;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;;;1
+55139;1;1;x;1;;7 063;8930;FAUX;x;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;6.1;ZR;1
+55140;18;18;x;19;;1 023;958;VRAI;;CC Stenay - Val Dunois;SIE Pays de Mautfaucon;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;4.7;;1
+55141;89;89;;89;;448;442;VRAI;;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;13;;1
+55142;207;209;;198;;425;439;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;40.3;;1
+55143;153;149;;145;;389;411;VRAI;;CC Pays d''Etain;SIE Dieppe-Damloup;;CC Pays d''Etain;CC Pays d''Etain;5.3;;1
+55144;498;491;;478;;182;174;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;11.3;;1
+55145;799;806;;765;;775;837;VRAI;;Damvillers-Spincourt;;;SM Mangiennes;CC Damvillers-Spincourt;18.3;;1
+55146;249;250;;249;;544;550;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;14.4;;1
+55148;141;141;x;140;;1 289;1368;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SIE Haut-Ornain;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;15.1;;1
+55149;124;130;;137;;436;428;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;9.2;;1
+55150;599;583;;559;;470;503;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SM Baudignecourt-Demange;SM Baudignecourt-Demange;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;24.9;;1
+55153;187;187;;188;;484;513;VRAI;;CC Pays d''Etain;SIE Dieppe-Damloup;;CC Pays d''Etain;CC Pays d''Etain;15.1;;1
+55154;1 429;1 438;;1446;;951;959;VRAI;;Val de Meuse Voie Sacrée;SIE Dieue-Génicourt;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;15.8;;1
+55155;440;445;;445;;472;483;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;11.7;;1
+55156;148;144;;146;;446;453;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;11.3;;1
+55157;71;66;;63;;364;372;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;6.8;;1
+55158;833;815;;809;;479;482;VRAI;;Damvillers-Spincourt;SIE PIENNES (54);SIE PIENNES (54);SIE PIENNES (54);CC Damvillers-Spincourt;12.5;;1
+55159;342;338;;333;;515;520;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;10.9;;1
+55160;51;49;;49;;610;545;VRAI;;CC Sammiellois;SIE LAFFON DE LADEBAT;;CC Sammiellois;CC Sammiellois;8.1;;1
+55162;35;34;x;34;;1 160;1153;FAUX;x;Damvillers-Spincourt;SIE PIENNES (54);SIE PIENNES (54);SIE PIENNES (54);CC Damvillers-Spincourt;3.1;;1
+55163;82;85;;85;;471;459;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;6.2;;1
+55164;8;8;x;8;;2 640;3075;FAUX;x;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;6.1;;1
+55165;490;483;;480;;563;585;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;8.6;;1
+55166;1 358;1 344;;1336;;789;798;VRAI;;Val de Meuse Voie Sacrée;;CA Verdun;CA Verdun;Val de Meuse Voie Sacrée;19.3;;1
+55167;785;785;;780;;622;636;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;6.4;;1
+55168;48;50;;51;;504;510;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;5.8;;1
+55169;520;506;;511;;394;393;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;4.3;;1
+55170;169;164;;151;;393;423;VRAI;;Damvillers-Spincourt;;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;6.9;;1
+55171;265;271;;264;;423;455;VRAI;;CC Pays d''Etain;;;CC Pays d''Etain;CC Pays d''Etain;12.1;;1
+55172;74;76;;75;;290;288;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;9.5;;1
+55173;40;39;;42;;597;585;VRAI;;Commercy - Void - Vaucouleurs;SIE Sainte-Libaire;;;Commercy - Void - Vaucouleurs;8.2;;1
+55174;82;77;;78;;712;709;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;SM3A;14.1;;1
+55175;179;173;x;172;;1 092;1099;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;CC Aire et Meuse;CC Aire et Meuse;SM3A;10.8;;1
+55177;72;70;x;66;;1 515;1667;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;7.2;;1
+55178;204;205;x;203;;1 125;1120;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;12.5;;1
+55179;179;178;;176;;490;507;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;28.1;;1
+55180;141;146;;145;;378;400;VRAI;;Argonne Meuse;;;CC Argonne Meuse;CC Argonne Meuse;14.8;;1
+55181;3 925;3 857;;3784;;598;614;VRAI;;CC Pays d''Etain;;;CC Pays d''Etain;CC Pays d''Etain;19.6;;1
+55182;214;212;;210;;441;456;VRAI;;Damvillers-Spincourt;SIE PIENNES (54);SIE PIENNES (54);SIE PIENNES (54);CC Damvillers-Spincourt;11.1;;1
+55183;45;45;;43;;564;578;VRAI;;Damvillers-Spincourt;;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;8;;1
+55184;1 774;1 784;;1761;;413;464;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;29.8;;1
+55185;91;99;;105;;589;576;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;11.7;;1
+55186;2 356;2 341;x;2279;OUI;783;824;VRAI;x;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;18.3;;1
+55188;51;50;;52;;538;507;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;6.7;;1
+55189;0;0;;0;;0;0;VRAI;;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;10.3;ZR;1
+55191;207;218;;224;;529;525;VRAI;;CC Pays d''Etain;SIE Gincrey-Maucourt;;CC Pays d''Etain;CC Pays d''Etain;11.1;;1
+55192;68;67;;69;;563;556;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;6.2;;1
+55193;130;128;;129;;480;479;VRAI;;Argonne Meuse;SIE VAL DUNOIS;;CC Argonne Meuse;CC Argonne Meuse;16;;1
+55194;61;59;;60;;648;685;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;9.9;;1
+55195;156;160;;160;;128;150;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;5.6;;1
+55196;130;138;;148;;396;378;VRAI;;Côtes de Meuse Woëvre;;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;6.4;;1
+55197;169;169;;173;;438;434;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;15.9;;1
+55198;745;740;;740;;515;538;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;9.1;;1
+55199;113;109;;113;;495;472;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;8.7;;1
+55200;240;234;;233;;666;996;VRAI;;CA Verdun;SIE Sivry-la-Perche;CA Verdun;CA Verdun;CA Verdun;20.3;;1
+55201;54;55;;57;;588;573;VRAI;;CC Pays d''Etain;;;CC Pays d''Etain;CC Pays d''Etain;6;;1
+55202;211;215;;212;;373;388;VRAI;;Argonne Meuse;SIE Vallée de la Biesme;;SM Germain Guérard;CC Argonne Meuse;1.7;;1
+55204;285;279;;275;;571;590;VRAI;;Val de Meuse Voie Sacrée;SIE Dieue-Génicourt;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;8;;1
+55206;158;163;;163;;397;396;VRAI;;Argonne Meuse;SIE VAL DUNOIS;;CC Argonne Meuse;CC Argonne Meuse;13.6;;1
+55207;66;66;x;65;;2 044;2056;FAUX;x;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;4.8;;1
+55208;53;57;;58;;622;593;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;SM3A;7.1;;1
+55258;665;672;;676;;381;376;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;33.1;;1
+55210;38;38;;39;;710;709;VRAI;;CC Triaucourt - Aire et Meuse;SIE Villote/Gimécourt;CC Aire et Meuse;CC Aire et Meuse;SM3A;10.1;;1
+55211;64;64;;65;;612;611;VRAI;;CC Pays d''Etain;SIE Gincrey-Maucourt;;CC Pays d''Etain;CC Pays d''Etain;9.7;;1
+55212;77;75;;74;;447;453;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;5.1;;1
+55214;354;352;;348;;560;719;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;9.7;;1
+55215;1 234;1 229;;1221;;555;566;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Haut-Ornain;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;51.3;;1
+55216;50;52;;51;;596;682;VRAI;;Damvillers-Spincourt;SIE PIENNES (54);SIE PIENNES (54);SIE PIENNES (54);CC Damvillers-Spincourt;5.5;;1
+55217;132;130;;132;;378;395;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;10.3;;1
+55218;25;30;;34;;990;887;VRAI;;Damvillers-Spincourt;;;SM Mangiennes;CC Damvillers-Spincourt;17.8;;1
+55219;110;107;;107;;421;438;VRAI;;CC Pays d''Etain;SIE Herméville;;CC Pays d''Etain;CC Pays d''Etain;5.7;;1
+55220;108;108;;110;;350;402;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;9.3;;1
+55221;265;267;;266;;544;647;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;6.1;;1
+55222;37;41;;38;;960;1069;FAUX;T;CC Pays d''Etain;SIE LAFFON DE LADEBAT;;CC Pays d''Etain;CC Pays d''Etain;10.5;;1
+55224;645;648;;645;;868;854;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Brillon-Haironville-Saudrupt;;;CC Val d''Ornois Haute Saulx et Perthois;9.8;;1
+55225;168;171;;174;;459;471;VRAI;;CC Stenay - Val Dunois;SIE Beauclair;;CC Pays de Stenay;CC Stenay - Val Dunois;5.5;;1
+55226;121;128;;138;;352;319;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;5.4;;1
+55228;666;665;;658;;363;375;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;15.7;;1
+55229;291;293;x;297;;1 476;1511;FAUX;x;CC Sammiellois;SIE Han/Brasseitte;;CC Sammiellois;CC Sammiellois;17.2;;1
+55232;117;115;;115;;514;529;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.5;;1
+55236;990;974;;973;;545;621;VRAI;;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;11.1;;1
+55237;248;246;;237;;855;895;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;9.3;ZR;1
+55239;0;0;;0;;0;0;VRAI;;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;10.8;;1
+55123;782;789;;794;;460;464;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;CC Triaucourt - Aire et Meuse;50.2;;1
+55241;89;90;;92;;481;481;VRAI;;Val de Meuse Voie Sacrée;SM Germain Guérard;;SM Germain Guérard;SM3A;10.5;;1
+55242;130;126;;121;;927;988;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;10.8;;1
+55243;198;199;;202;;352;366;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;6.7;;1
+55244;255;250;;245;;426;444;VRAI;;CC Pays d''Etain;SIE Herméville;;CC Pays d''Etain;CC Pays d''Etain;14.6;;1
+55245;237;234;;232;;894;926;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;SM Madine;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;13.6;;1
+55246;134;135;;132;;152;184;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Hévilliers;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;10.6;;1
+55247;72;77;;72;;409;451;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Horville-Tourailles ;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;7.6;;1
+55248;373;354;x;343;;1 082;1109;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;16.1;;1
+55250;235;229;;227;;472;481;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;6.5;;1
+55251;101;103;;100;;557;621;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;;SM Germain Guérard;SM3A;10.6;;1
+55252;170;161;;160;;377;386;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;8.3;;1
+55253;905;875;;849;;381;400;VRAI;;Argonne Meuse;SIE Vallée de la Biesme;;SM Germain Guérard;CC Argonne Meuse;5.6;;1
+55255;276;265;;263;;429;440;VRAI;;Pays de Montmedy;SM Mangiennes;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;17.4;;1
+55256;152;153;;151;;459;486;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;10.8;;1
+55257;57;58;;56;;442;467;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;6.3;;1
+55260;80;78;;79;;420;429;VRAI;;Val de Meuse Voie Sacrée;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;8.7;;1
+55261;142;140;;139;;482;493;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;6.4;;1
+55262;281;284;;289;;377;366;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;16.4;;1
+55263;188;194;;192;;472;477;VRAI;;CC Sammiellois;;SIA des Koeur;CC Sammiellois;CC Sammiellois;12.3;;1
+55264;322;324;;322;;383;384;VRAI;;CC Sammiellois;SIE Han/Brasseitte;SIA des Koeur;CC Sammiellois;CC Sammiellois;20.3;;1
+55265;141;137;;134;;432;459;VRAI;;CC Fresnes en Woevre;SIE du SOIRON (54);;CC Fresnes en Woevre;CC Fresnes en Woevre;9.6;;1
+55266;83;87;;88;;460;478;VRAI;;Argonne Meuse;;;SM Germain Guérard;CC Argonne Meuse;19.5;;1
+55267;287;286;;290;;569;560;VRAI;;Côtes de Meuse Woëvre;SIE du SOIRON (54);SIE du SOIRON (54);SIE du SOIRON (54);CC Côtes de Meuse Woëvre;27.2;;1
+55268;744;739;;733;;443;452;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;21.2;;1
+55269;96;99;;95;;561;600;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;12.7;;1
+55270;30;28;;26;;651;676;VRAI;;Côtes de Meuse Woëvre;SIE Trey-Saint-Jean (54);;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;4;;1
+55271;418;417;;415;;582;611;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;18;;1
+55272;474;473;;478;;695;823;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;10.8;;1
+55274;313;315;;312;;442;444;VRAI;;Côtes de Meuse Woëvre;SIE Maizey;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;34.9;;1
+55275;117;119;;116;;376;409;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;4.8;;1
+55276;196;190;;195;;676;670;VRAI;;Val de Meuse Voie Sacrée;;;SM Germain Guérard;Val de Meuse Voie Sacrée;14.6;;1
+55278;202;207;;206;;763;752;VRAI;;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;13.2;;1
+55279;470;456;;460;;463;478;VRAI;;CC Stenay - Val Dunois;SIE Laneuville/Luzy;;CC Pays de Stenay;CC Stenay - Val Dunois;22.8;;1
+55280;71;73;;75;;444;435;VRAI;;CC Pays d''Etain;SIE PIENNES (54);;CC Pays d''Etain;CC Pays d''Etain;4.6;;1
+55281;83;88;;94;;386;374;VRAI;;CC Fresnes en Woevre;SIE du SOIRON (54);;CC Fresnes en Woevre;CC Fresnes en Woevre;6.7;;1
+55282;104;104;;101;;920;959;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;SM3A;12.6;;1
+55284;80;81;;79;;410;436;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;4.7;;1
+55285;176;169;;165;;585;549;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;10;;1
+55286;237;234;;240;;354;365;VRAI;;Val de Meuse Voie Sacrée;SIE Lemmes-Osches-Vadelaincourt;;SM Germain Guérard;SM3A;11.1;;1
+55288;1 525;1 516;;1512;;466;511;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;14.4;;1
+55289;58;64;;64;;820;810;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;SM3A;7.8;;1
+55290;52;57;;58;;711;722;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;SM3A;9.3;;1
+55291;4 382;4 349;;4315;;969;990;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;32.3;;1
+55292;215;216;;213;;777;793;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;10.9;;1
+55293;189;189;;194;;559;566;VRAI;;CC Stenay - Val Dunois;SIE Côte-Saint-Germain;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;15.5;;1
+55295;37;42;x;44;;1 445;1338;FAUX;x;CC Triaucourt - Aire et Meuse;COPARY;COPARY;SM Germain Guérard;SMAVAS;28.9;;1
+55296;545;542;;534;;422;420;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SM Lisle en Rigault;SM Lisle en Rigault;;CC Val d''Ornois Haute Saulx et Perthois;10.5;;1
+55297;147;140;;139;;481;472;VRAI;;Damvillers-Spincourt;;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;10;;1
+55298;317;320;;320;;585;623;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;24.5;;1
+55299;114;120;;121;;423;434;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;14.2;;1
+55301;149;145;;142;;557;582;VRAI;;CC Triaucourt - Aire et Meuse;SIE Vallée de l''Aire;CC Aire et Meuse;CC Aire et Meuse;SM3A;15.7;;1
+55300;243;239;;238;;524;606;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;7.5;;1
+55302;1 226;1 211;;1203;;784;810;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;15.4;;1
+55303;96;93;;92;;582;606;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;10.3;;1
+55304;177;172;;169;;557;595;VRAI;;CC Triaucourt - Aire et Meuse;COPARY;COPARY;SM Germain Guérard;SM3A;18.8;;1
+55306;145;150;;157;;400;380;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;14.4;;1
+55307;0;0;;0;;0;0;VRAI;;CA Verdun;Zone rouge;CA Verdun;CA Verdun;CA Verdun;8.3;ZR;1
+55310;120;125;;126;;466;449;VRAI;;CC Stenay - Val Dunois;SIE Laneuville/Luzy;;CC Pays de Stenay;CC Stenay - Val Dunois;7.4;;1
+55311;36;35;;34;;584;640;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;3.9;;1
+55312;190;185;x;183;;1 235;1705;FAUX;x;CC Sammiellois;SIE Maizey;;CC Sammiellois;CC Sammiellois;14.9;;1
+55313;97;92;;83;;475;543;VRAI;;Argonne Meuse;;;CC Argonne Meuse;CC Argonne Meuse;16.5;;1
+55315;139;142;;137;;171;215;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE d''Echenay (52);;;CC Val d''Ornois Haute Saulx et Perthois;17.7;;1
+55316;413;414;;412;;436;442;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;18.2;;1
+55317;163;158;;152;;688;726;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;10.5;;1
+55320;86;85;;83;;357;373;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.6;;1
+55321;173;172;;172;;561;868;VRAI;;CA Verdun;SIE La Forestière;CA Verdun;CA Verdun;CA Verdun;10.2;;1
+55322;61;62;x;63;;1 067;1059;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;5.9;;1
+55323;70;69;;69;;554;552;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;6;;1
+55324;617;601;;572;;650;646;VRAI;;Pays de Montmedy;SIE Marville-Saint-Jean-les-Villers;SIE Marville-Saint-Jean-les-Villers;SIE Marville-Saint-Jean-les-Villers;SIAC;19.6;;1
+55325;65;64;;66;;547;534;VRAI;;CC Pays d''Etain;SIE Gincrey-Maucourt;;CC Pays d''Etain;CC Pays d''Etain;6.4;;1
+55326;102;101;;108;;583;528;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;4.2;;1
+55327;307;314;;313;;421;422;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;21.1;;1
+55328;335;339;;338;;393;404;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;10.9;;1
+55329;249;247;;247;;355;404;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;10.2;;1
+55330;108;109;x;112;;1 466;1420;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;11.5;;1
+55331;84;91;x;93;;1 089;1065;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;8.4;;1
+55332;239;243;;248;;627;753;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;6.3;;1
+55333;50;51;;51;;736;927;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;6.7;;1
+55334;178;186;x;185;;1 070;1023;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;16.6;;1
+55335;280;278;;292;;93;75;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;12;;1
+55336;185;186;;183;;380;393;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;11.5;;1
+55338;187;185;;187;;545;545;VRAI;;CC Stenay - Val Dunois;SIE Côte-Saint-Germain;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;10.4;;1
+55339;77;79;;82;;554;538;VRAI;;CC Pays d''Etain;SIE Gincrey-Maucourt;;CC Pays d''Etain;CC Pays d''Etain;6.4;;1
+55340;396;392;;389;;667;685;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;18.6;;1
+55341;147;147;;147;;450;442;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;14.6;;1
+55343;85;84;;83;;491;488;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;12.1;;1
+55344;26;22;x;20;;1 197;1256;FAUX;x;Commercy - Void - Vaucouleurs;SIE Taillancourt-Montbras;;SIE Taillancourt-Montbras;Commercy - Void - Vaucouleurs;5.4;;1
+55345;180;173;;166;;518;541;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;8.2;;1
+55346;384;371;;362;;429;435;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;SM3A;23.6;;1
+55347;394;396;;399;;382;389;VRAI;;Val de Meuse Voie Sacrée;;;SM Germain Guérard;Val de Meuse Voie Sacrée;12.2;;1
+55348;479;482;;486;;291;319;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;;;;CC Val d''Ornois Haute Saulx et Perthois;44.6;;1
+55349;160;162;;159;;544;564;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;9.7;;1
+55350;93;92;;85;;436;484;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;11.8;;1
+55351;2 473;2 426;;2357;;480;494;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;23.5;;1
+55352;186;176;;166;;483;505;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;20.7;;1
+55353;99;98;;96;;450;459;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;6;;1
+55355;180;176;;172;;525;843;VRAI;;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;17.7;;1
+55356;136;128;;124;;378;413;VRAI;;CC Pays d''Etain;SIE Herméville;;CC Pays d''Etain;CC Pays d''Etain;6.8;;1
+55357;108;112;;113;;386;390;VRAI;;CC Pays d''Etain;SIE Gincrey-Maucourt;;CC Pays d''Etain;CC Pays d''Etain;6.9;;1
+55359;219;219;;219;;182;187;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;24.8;;1
+55360;125;125;;127;;352;356;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;11;;1
+55361;157;136;;133;;561;552;VRAI;;CC Pays d''Etain;;;CC Pays d''Etain;CC Pays d''Etain;11.2;;1
+55362;186;183;;181;;489;490;VRAI;;CC Stenay - Val Dunois;SIE Moulins-Autreville;;CC Pays de Stenay;CC Stenay - Val Dunois;8.1;;1
+55363;136;126;;117;;307;320;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.5;;1
+55364;774;769;;751;;532;566;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;35.7;;1
+55365;160;160;;161;;508;512;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;14.2;;1
+55367;139;141;;138;;452;476;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;8.2;;1
+55368;174;172;;176;;439;446;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;15.7;;1
+55369;843;835;;825;;638;675;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;15.9;;1
+55370;216;212;;209;;532;678;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;6.3;;1
+55371;67;74;;78;;956;904;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;9.3;;1
+55372;396;396;;393;;627;667;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;8;;1
+55375;72;72;;70;;623;645;VRAI;;CC Stenay - Val Dunois;SIE Pays de Mautfaucon;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;7.7;;1
+55373;79;81;;83;;628;629;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;11.3;;1
+55374;86;86;;86;;526;509;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;9;;1
+55376;91;88;;84;;723;758;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;6.1;;1
+55377;78;86;;92;;541;536;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;5.2;;1
+55378;288;282;;280;;585;606;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;11.5;;1
+55379;93;93;;93;;355;361;VRAI;;Argonne Meuse;SIE Vallée de la Biesme;;SM Germain Guérard;CC Argonne Meuse;0.9;;1
+55380;83;82;;82;;664;648;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;13.4;;1
+55381;204;208;;213;;340;329;VRAI;;Commercy - Void - Vaucouleurs;SIE Sainte-Libaire;;;Commercy - Void - Vaucouleurs;8.4;;1
+55382;369;371;;374;;615;625;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;11.7;;1
+55383;223;225;;231;;521;515;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;18.3;;1
+55384;117;118;;121;;532;515;VRAI;;CC Triaucourt - Aire et Meuse;SIE Vallée de l''Aire;CC Aire et Meuse;CC Aire et Meuse;SM3A;11;;1
+55385;475;486;;485;;657;666;VRAI;;Val de Meuse Voie Sacrée;SIE Sivry-la-Perche;;SM Germain Guérard;SM3A;19.5;;1
+55386;199;204;;217;;867;822;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;SM Madine;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;18.2;;1
+55387;251;244;;243;;435;435;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;10.1;;1
+55388;261;280;;293;;573;582;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;17.2;;1
+55389;298;294;;285;;555;583;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;27.5;;1
+55391;213;211;;204;;465;483;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;9.2;;1
+55394;7;7;x;7;;2 601;3921;FAUX;x;CA Verdun;SIE Gincrey-Maucourt;CA Verdun;CA Verdun;CA Verdun;18.5;;1
+55395;51;53;x;56;;2 517;2303;FAUX;x;Val de Meuse Voie Sacrée;SIE Lemmes-Osches-Vadelaincourt;;SM Germain Guérard;SM3A;9.1;;1
+55396;217;219;;219;;383;391;VRAI;;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;10.4;;1
+55397;277;272;;271;;373;386;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;12.4;;1
+55398;1 031;1 039;x;1063;;1 856;1658;FAUX;x;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;18.8;;1
+55399;128;129;;132;;359;360;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;7;;1
+55400;53;51;x;51;;1 254;1268;FAUX;x;CC Pays d''Etain;SIE LAFFON DE LADEBAT;SIA de l''Orne;CC Pays d''Etain;CC Pays d''Etain;8.5;;1
+55401;412;414;;425;;500;485;VRAI;;CC Sammiellois;SIE Chauvoncourt - Les Paroches;;CC Sammiellois;CC Sammiellois;10.2;;1
+55403;74;72;;70;;460;492;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;4.9;;1
+55404;304;327;;325;;466;492;VRAI;;CC Triaucourt - Aire et Meuse;SIE Vallée de l''Aire;CC Aire et Meuse;CC Aire et Meuse;SM3A;17.6;;1
+55405;249;262;;274;;413;406;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;15.4;;1
+55406;100;106;;109;;478;490;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;5.2;;1
+55407;150;146;;145;;497;534;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;3.6;;1
+55408;242;242;;234;;457;487;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;11.8;;1
+55409;66;67;;69;;632;622;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;9.9;;1
+55410;176;171;;172;;456;452;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;12.5;;1
+55442;279;280;x;285;;1 177;1165;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;19.2;;1
+55411;102;101;;102;;548;538;VRAI;;Val de Meuse Voie Sacrée;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;Val de Meuse Voie Sacrée;18.4;;1
+55412;201;204;;211;;429;412;VRAI;;Côtes de Meuse Woëvre;SIE Trey-Saint-Jean (54);;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;14.9;;1
+55414;213;215;;214;;576;613;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;10;;1
+55415;87;89;;95;;438;415;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;14.1;;1
+55416;242;238;;232;;511;513;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;15.4;;1
+55419;185;183;;184;;418;417;VRAI;;Argonne Meuse;;;SM Germain Guérard;SM3A;6.8;;1
+55420;79;79;;81;;519;494;VRAI;;Val de Meuse Voie Sacrée;;;SM Germain Guérard;Val de Meuse Voie Sacrée;14.4;;1
+55421;76;76;x;77;;2 381;2369;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;9.4;;1
+55422;49;50;;50;;416;404;VRAI;;Argonne Meuse;SIE du BREUIL;;CC Argonne Meuse;CC Argonne Meuse;3.8;;1
+55423;348;353;;356;;520;513;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;22.3;;1
+55424;70;72;;65;;590;664;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;2.7;;1
+55425;158;153;;149;;440;438;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;9.7;;1
+55426;437;432;;429;;607;636;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;8.4;;1
+55427;3 134;3 091;;3072;;876;902;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;19.3;;1
+55428;133;135;;127;;454;506;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;11;;1
+55429;50;48;;46;;610;642;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;3.4;;1
+55430;116;117;;115;;174;186;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Vallée de l''Orge;SIE Vallée de l''Orge;SIE Vallée de l''Orge;CC Val d''Ornois Haute Saulx et Perthois;12.5;;1
+55431;67;66;;65;;476;486;VRAI;;Côtes de Meuse Woëvre;SIE Trey-Saint-Jean (54);;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;6.2;;1
+55433;418;423;;419;;469;488;VRAI;;Commercy - Void - Vaucouleurs;SIE des 2 Rigny;;;Commercy - Void - Vaucouleurs;10.3;;1
+55434;61;63;;64;;624;1076;FAUX;T;Commercy - Void - Vaucouleurs;SIE des 2 Rigny;;;Commercy - Void - Vaucouleurs;16.1;;1
+55435;852;859;;861;;585;613;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;7.3;;1
+55436;40;39;;38;;485;474;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Vaudeville les Roises;SIE Vaudeville les Roises;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;3.9;;1
+55437;120;118;;118;;606;622;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;14.2;;1
+55438;217;217;;219;;434;421;VRAI;;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;CC Argonne Meuse;15.7;;1
+55439;102;103;;103;;336;339;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;2.6;;1
+55443;785;732;;673;;283;304;VRAI;;CC Pays d''Etain;SIE PIENNES (54);;CC Pays d''Etain;CC Pays d''Etain;16.7;;1
+55444;193;192;;190;;461;469;VRAI;;CC Sammiellois;SIE Maizey;;CC Sammiellois;CC Sammiellois;6.1;;1
+55445;210;208;;206;;494;511;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;12.2;;1
+55446;102;102;;98;;931;970;VRAI;;CA Bar-le-Duc;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;CA Bar-le-Duc;6.3;;1
+55447;384;383;;380;;563;572;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;20.4;;1
+55448;58;61;;60;;544;589;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;6.3;;1
+55449;307;301;;308;;555;557;VRAI;;Val de Meuse Voie Sacrée;;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;17.1;;1
+55450;59;57;;56;;429;423;VRAI;;Damvillers-Spincourt;;;;CC Damvillers-Spincourt;5.5;;1
+55452;83;84;;85;;578;665;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;6.1;;1
+55453;63;65;;65;;446;460;VRAI;;Val de Meuse Voie Sacrée;;;SM Germain Guérard;SM3A;9.3;;1
+55454;178;179;x;180;;1 189;1194;FAUX;x;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;14.2;;1
+55456;283;285;;284;;796;803;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;7.7;;1
+55457;213;213;;203;;412;443;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;11.1;;1
+55458;346;357;;370;;413;399;VRAI;;CC Pays d''Etain;SIE LAFFON DE LADEBAT;SIA de l''Orne;CC Pays d''Etain;CC Pays d''Etain;10.3;;1
+55459;253;247;;247;;466;468;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SM Tréveray Saint-Joire;SM Tréveray Saint-Joire;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;18.3;;1
+55460;145;155;;157;;450;461;VRAI;;Côtes de Meuse Woëvre;SIE Liouville - Saint-Julien;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;5;;1
+55461;517;513;;519;;364;371;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;16.8;;1
+55462;439;436;;430;;523;535;VRAI;;Côtes de Meuse Woëvre;;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;9.3;;1
+55463;4 637;4 493;;4424;;727;734;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;33;;1
+55464;167;170;;172;;448;470;VRAI;;Damvillers-Spincourt;SIE PIERREPONT;;SM Mangiennes;CC Damvillers-Spincourt;11.1;;1
+55465;104;112;;115;;309;313;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;8;;1
+55466;322;319;;312;;554;610;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;16.7;;1
+55468;85;89;;94;;527;767;VRAI;;CA Verdun;SIE du BREUIL;CA Verdun;CA Verdun;CA Verdun;6.2;;1
+55467;768;769;;770;;490;503;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;20.5;;1
+55469;140;141;;138;;497;511;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;4.3;;1
+55470;206;205;;208;;569;577;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Brillon-Haironville-Saudrupt;;;CC Val d''Ornois Haute Saulx et Perthois;7.8;;1
+55471;130;129;;128;;535;554;VRAI;;CC Stenay - Val Dunois;SIE Beauclair;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;6.9;;1
+55472;136;135;;129;;898;958;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;22.4;;1
+55473;145;136;;134;;479;501;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;7.8;;1
+55474;310;301;;287;;384;408;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;17.5;;1
+55475;67;69;;69;;435;448;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;7.8;;1
+55476;503;503;x;504;;1 596;1631;FAUX;x;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;5.2;;1
+55477;478;469;;454;;431;446;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;10.1;;1
+55479;205;201;;196;;441;465;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;CC Triaucourt - Aire et Meuse;11.7;;1
+55481;318;318;;321;;483;493;VRAI;;Damvillers-Spincourt;SIE PIENNES (54);;SIE PIENNES (54);CC Damvillers-Spincourt;19.9;;1
+55482;100;95;;91;;469;481;VRAI;;Val de Meuse Voie Sacrée;;;SM Germain Guérard;Val de Meuse Voie Sacrée;14.9;;1
+55484;54;55;x;53;;1 893;1948;FAUX;x;Argonne Meuse;SIE Pays de Mautfaucon;;CC Argonne Meuse;CC Argonne Meuse;8.9;;1
+55485;94;91;;90;;420;458;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;6.3;;1
+55517;540;540;;553;;532;528;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;25.4;;1
+55487;101;100;;107;;505;490;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;4.6;;1
+55488;187;186;;179;;571;656;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;3.8;;1
+55489;274;277;;283;;427;657;VRAI;;CA Verdun;SIE Sivry-la-Perche;CA Verdun;CA Verdun;CA Verdun;12.2;;1
+55490;426;431;;438;;543;550;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;22.2;;1
+55492;969;975;;981;;548;552;VRAI;;Val de Meuse Voie Sacrée;;SIA de la Dieue;SIA de la Dieue;Val de Meuse Voie Sacrée;33.6;;1
+55493;207;208;;206;;576;613;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;18.8;;1
+55494;505;501;;494;;577;586;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;10.2;;1
+55495;267;280;;271;;342;370;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;12.4;;1
+55496;1 049;1 083;;1089;;990;970;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;21.7;;1
+55497;340;349;x;355;;995;976;VRAI;;Val de Meuse Voie Sacrée;SIE Sivry-la-Perche;;SM Germain Guérard;SM3A;21.8;;1
+55498;379;377;;379;;783;797;VRAI;;Val de Meuse Voie Sacrée;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;26.6;;1
+55500;876;869;;868;;492;512;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;27.3;;1
+55501;423;444;;452;;446;454;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIVOM 4 CANTONS;;;CC Val d''Ornois Haute Saulx et Perthois;20.9;;1
+55502;2 927;2 902;;2883;;955;953;VRAI;;CC Stenay - Val Dunois;;;CC Pays de Stenay;CC Stenay - Val Dunois;27.2;;1
+55503;174;171;;166;;361;368;VRAI;;Commercy - Void - Vaucouleurs;SIE Taillancourt-Montbras;;SIE Taillancourt-Montbras;Commercy - Void - Vaucouleurs;11.1;;1
+55504;411;404;;399;;633;660;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;13.3;;1
+55505;3 133;3 129;x;3147;OUI;787;766;VRAI;x;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;12.1;;1
+55506;41;40;;38;;660;662;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;13;;1
+55507;268;263;;258;;299;316;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;3.7;;1
+55508;281;289;;290;;390;407;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;9.5;;1
+55510;155;158;;157;;407;406;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;5.4;;1
+55509;298;304;;294;;348;362;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;11.4;;1
+55511;163;163;;164;;409;412;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;6.1;;1
+55512;295;298;;300;;293;283;VRAI;;Val de Meuse Voie Sacrée;SIE Tilly et Villers;;SM Germain Guérard;Val de Meuse Voie Sacrée;13.7;;1
+55514;653;644;;637;;603;630;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;11.9;;1
+55515;81;75;;75;;407;408;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;4;;1
+55516;645;639;;630;;588;597;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SM Tréveray Saint-Joire;SM Tréveray Saint-Joire;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;17.2;;1
+55254;140;144;x;141;;1 174;1244;FAUX;x;CC Triaucourt - Aire et Meuse;SM Germain Guérard;;SM Germain Guérard;SM3A;16.5;;1
+55519;1 601;1 586;x;1569;;1 019;1103;FAUX;x;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;12.6;;1
+55520;437;438;;440;;378;379;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;17.2;;1
+55521;268;272;;280;;424;422;VRAI;;CC Sammiellois;SIE LAFFON DE LADEBAT;;CC Sammiellois;CC Sammiellois;13.1;;1
+55522;109;109;;111;;428;424;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;4.3;;1
+55523;148;163;;170;;579;866;VRAI;;CA Verdun;SIE La Forestière;CA Verdun;CA Verdun;CA Verdun;7.3;;1
+55525;73;75;x;81;;1 016;933;VRAI;;Val de Meuse Voie Sacrée;SIE Lemmes-Osches-Vadelaincourt;;SM Germain Guérard;SM3A;5.4;;1
+55526;273;277;;276;;394;436;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;5.2;;1
+55530;117;111;;110;;826;836;VRAI;;Côtes de Meuse Woëvre;;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;17.1;;1
+55366;1 027;1 015;;1020;;678;699;VRAI;;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;24.2;;1
+55527;699;697;;696;;576;714;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;11.8;;1
+55528;60;63;;63;;573;558;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;6.4;;1
+55531;297;308;;312;;614;635;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;7.9;;1
+55532;339;339;;339;;456;457;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;CC Triaucourt - Aire et Meuse;22.6;;1
+55533;2 100;2 088;;2088;;627;628;VRAI;;Commercy - Void - Vaucouleurs;;SIVU des 7 Ponts;;Commercy - Void - Vaucouleurs;39.4;;1
+55534;73;72;x;69;;1 917;2119;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SIE Vaudeville les Roises;SIE Vaudeville les Roises;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;9.7;;1
+55535;80;79;;79;;467;509;VRAI;;Damvillers-Spincourt;SM Mangiennes;SM Mangiennes;SM Mangiennes;CC Damvillers-Spincourt;6;;1
+55536;30;29;;29;;894;891;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;8.1;;1
+55537;75;72;;71;;598;951;VRAI;;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;6.6;;1
+55540;63;61;;61;;521;530;VRAI;;CC Sammiellois;;;CC Sammiellois;CC Sammiellois;10.5;;1
+55541;503;504;;505;;611;642;VRAI;;CA Bar-le-Duc;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;CA Bar-le-Duc;15.9;;1
+55543;944;932;x;934;;1 136;1202;FAUX;x;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;CA Bar-le-Duc;10.7;;1
+55544;170;177;;179;;354;347;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;4.4;;1
+55545;19 586;19 624;x;19230;OUI;935;852;VRAI;x;CA Verdun;;CA Verdun;CA Verdun;CA Verdun;31;;1
+55546;223;221;;218;;345;344;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;6.2;;1
+55547;141;140;;132;;335;358;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;4;;1
+55549;115;118;;119;;478;484;VRAI;;Argonne Meuse;;;CC Argonne Meuse;SM3A;11.7;;1
+55551;1 747;1 735;;1752;;690;693;VRAI;;Côtes de Meuse Woëvre;SIE LAFFON DE LADEBAT;;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;62.6;;1
+55552;100;96;;94;;384;389;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;4.6;;1
+55553;1 363;1 351;;1346;;492;543;VRAI;;Commercy - Void - Vaucouleurs;;;CC Pays de Commercy;Commercy - Void - Vaucouleurs;16;;1
+55554;267;273;;275;;311;321;VRAI;;Pays de Montmedy;;CC Pays de Montmedy;CC Pays de Montmedy;SIAC;7.2;;1
+55555;27;26;;29;;833;753;VRAI;;CC Triaucourt - Aire et Meuse;SIE Villote/Gimécourt;CC Aire et Meuse;CC Aire et Meuse;SM3A;6.1;;1
+55556;54;54;;53;;505;508;VRAI;;Damvillers-Spincourt;;;;CC Damvillers-Spincourt;4.2;;1
+55557;138;140;;137;;741;808;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;14.2;;1
+55559;39;38;x;36;;1 607;1701;FAUX;x;Commercy - Void - Vaucouleurs;;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;6.5;;1
+55560;140;137;;141;;610;621;VRAI;;COPARY;COPARY;COPARY;COPARY;COPARY;6.1;;1
+55561;68;66;;65;;665;683;VRAI;;CC Stenay - Val Dunois;SIE VAL DUNOIS;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;8;;1
+55562;145;145;;145;;129;116;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE Hévilliers;SIVOM 4 CANTONS;SIVOM 4 CANTONS;CC Val d''Ornois Haute Saulx et Perthois;7;;1
+55563;82;80;;78;;459;504;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;8.2;;1
+55565;67;73;;75;;419;403;VRAI;;CC Fresnes en Woevre;SIE du SOIRON (54);;CC Fresnes en Woevre;CC Fresnes en Woevre;6.1;;1
+55566;287;291;;300;;347;342;VRAI;;Val de Meuse Voie Sacrée;SIE Tilly et Villers;;SM Germain Guérard;Val de Meuse Voie Sacrée;7.3;;1
+55567;121;127;;132;;636;620;VRAI;;Val de Meuse Voie Sacrée;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SM3A;9.6;;1
+55568;316;309;;309;;427;419;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SM Lisle en Rigault;SM Lisle en Rigault;;CC Val d''Ornois Haute Saulx et Perthois;4.1;;1
+55569;170;170;;173;;445;457;VRAI;;CC Triaucourt - Aire et Meuse;COPARY;COPARY;SM Germain Guérard;CC Triaucourt - Aire et Meuse;11.2;;1
+55570;197;203;;209;;560;551;VRAI;;CC Triaucourt - Aire et Meuse;SIE Villote/Gimécourt;CC Aire et Meuse;CC Aire et Meuse;SM3A;14;;1
+55571;240;241;;246;;558;556;VRAI;;CC Stenay - Val Dunois;;CC Val Dunois;CC Val Dunois;CC Stenay - Val Dunois;15.4;;1
+55572;90;88;;86;;461;493;VRAI;;Damvillers-Spincourt;SM Mangiennes;;SM Mangiennes;CC Damvillers-Spincourt;8.2;;1
+55573;1 719;1 717;;1703;;625;631;VRAI;;Commercy - Void - Vaucouleurs;;;;Commercy - Void - Vaucouleurs;35.6;;1
+55574;71;68;;61;;421;438;VRAI;;CC Val d''Ornois Haute Saulx et Perthois;SIE des Vouthons;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;7.2;;1
+55575;80;81;x;79;;1 544;1570;FAUX;x;CC Val d''Ornois Haute Saulx et Perthois;SIE des Vouthons;;CC Val d''Ornois;CC Val d''Ornois Haute Saulx et Perthois;13.2;;1
+55577;67;65;;65;;643;731;VRAI;;CC Triaucourt - Aire et Meuse;SM Germain Guérard;SM Germain Guérard;SM Germain Guérard;SMAVAS;6.2;;1
+55578;217;214;;213;;449;463;VRAI;;CC Pays d''Etain;SIE LAFFON DE LADEBAT;;CC Pays d''Etain;CC Pays d''Etain;5;;1
+55579;113;116;;117;;405;410;VRAI;;CC Fresnes en Woevre;;;CC Fresnes en Woevre;CC Fresnes en Woevre;6.4;;1
+55580;47;49;;50;;524;534;VRAI;;Damvillers-Spincourt;;;SM Mangiennes;CC Damvillers-Spincourt;5.3;;1
+55581;134;127;;121;;786;815;VRAI;;Commercy - Void - Vaucouleurs;SIVOM Source Godion;;SIVOM Source Godion;Commercy - Void - Vaucouleurs;7.9;;1
+55582;125;122;;121;;494;506;VRAI;;CC Stenay - Val Dunois;SIE Beauclair;;CC Pays de Stenay;CC Stenay - Val Dunois;5.7;;1
+55583;195;196;;202;;496;536;VRAI;;CC Fresnes en Woevre;SIE LAFFON DE LADEBAT;;CC Fresnes en Woevre;CC Fresnes en Woevre;13.2;;1
+55584;127;126;;132;;514;507;VRAI;;CC Triaucourt - Aire et Meuse;;CC Aire et Meuse;CC Aire et Meuse;CC Triaucourt - Aire et Meuse;15.3;;1
+55586;96;96;;98;;638;635;VRAI;;Côtes de Meuse Woëvre;SIE Trey-Saint-Jean (54);;CC Côtes de Meuse Woëvre;CC Côtes de Meuse Woëvre;14.5;;1
